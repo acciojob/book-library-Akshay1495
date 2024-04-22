@@ -33,19 +33,6 @@ body {
   color: rgb(46, 204, 113);
 }
 
-
-.book-info h3 {
-  margin: 0;
-  font-size: 18px;
-	color: black;
-}
-
-.book-info p {
-  margin: 5px 0;
-  font-size: 14px;
-  color: #777777;
-}
-
 .price-block {
   background-color: #2ecc71;
   color: #ffffff;
