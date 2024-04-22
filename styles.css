@@ -12,11 +12,10 @@ body {
 }
 
 .book {
-  background-color: #ffffff;
+  background-color: rgb(46, 204, 113); /* This line sets the background color to green */
   margin-bottom: 20px;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-	background-color: rgb(46, 204, 113);
 }
 
 .book img {
