@@ -28,15 +28,16 @@ body {
   margin: 0 auto;
 }
 
-
 .book-info {
   padding: 10px;
-	background-color: rgb(46, 204, 113);
+  color: rgb(255, 255, 255);
 }
+
 
 .book-info h3 {
   margin: 0;
   font-size: 18px;
+	color: black;
 }
 
 .book-info p {
@@ -48,9 +49,10 @@ body {
 .price-block {
   background-color: #2ecc71;
   color: #ffffff;
-  padding: 5px 0; /* Adjusted padding */
+  padding: 5px 0;
   border-radius: 3px;
-  display: block; /* Changed to block to take full width */
+  display: block; 
   font-size: 14px;
-  text-align: center; /* Center align text */
+  text-align: center;
 }
+
