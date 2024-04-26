@@ -43,3 +43,8 @@ body {
 .book p{
 	color:#777777;
 }
+
+
+.book details{
+	background color: rgb(46,204,113);
+}
