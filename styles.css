@@ -28,11 +28,6 @@ body {
 	
 }
 
-.book-info {
-  padding: 10px;
-  color: rgb(46, 204, 113);
-}
-
 .price-block {
   background-color: #2ecc71;
   color: #ffffff;
@@ -43,3 +38,8 @@ body {
   text-align: center;
 }
 
+
+
+.book p{
+	color:#777777;
+}
